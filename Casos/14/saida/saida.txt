@@ -1,0 +1,50 @@
+----- FILA DE TICKETS -----
+---------TICKET-----------
+- ID: Tick-1
+- Usuario solicitante: 913.802.467-80
+- Tipo: Hardware
+- Nome do hardware: ZTX-3852
+- Tipo da maquina: 2
+- Tipo do problema: 2
+- Motivo: A MAQUINA APRESENTA UM BARULHO ESTRANHO
+- Tempo estimado: 4h
+- Status: Finalizado
+-------------------------
+
+---------TICKET-----------
+- ID: Tick-2
+- Usuario solicitante: 913.802.467-80
+- Tipo: Hardware
+- Nome do hardware: YUT-90X1
+- Tipo da maquina: 3
+- Tipo do problema: 3
+- Motivo: A MAQUINA CHEGOU E PRECISA SER INSTALADA
+- Tempo estimado: 6h
+- Status: Aberto
+-------------------------
+
+---------------------------
+
+----- BANCO DE TECNICOS -----
+--------------------
+- Nome: KATARINA LIMA
+- CPF: 012.345.678-90
+- Data de Nascimento: 5/1/1991
+- Telefone: (95)99012-3456
+- Genero: FEMININO
+- Area de Atuacao: ENGENHEIRO
+- Salario: 4200.00
+- Disponibilidade: 0h
+- Tempo Trabalhado: 4h
+--------------------
+- Nome: LEE SIN CAMARGO
+- CPF: 132.465.798-02
+- Data de Nascimento: 10/10/1984
+- Telefone: (11)99765-3210
+- Genero: MASCULINO
+- Area de Atuacao: TI
+- Salario: 4200.00
+- Disponibilidade: 25h
+- Tempo Trabalhado: 0h
+----------------------------
+

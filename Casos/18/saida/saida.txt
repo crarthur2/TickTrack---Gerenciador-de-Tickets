@@ -1,0 +1,73 @@
+----- EMPRESAS FORNECEDORAS -----
+--------------------
+- Nome: TECHSOLUTIONS LTDA
+- CNPJ: 12.345.678/0001-90
+- Inicio da Parceria: 15/4/2015
+- Pais de Origem: BRASIL
+- Ramo de Atuacao: TECNOLOGIA
+- Email: CONTATO@TECHSOLUTIONS.COM.BR
+--------------------
+- Nome: GLOBAL TRADE INC
+- CNPJ: 98.765.432/0001-21
+- Inicio da Parceria: 22/9/2018
+- Pais de Origem: EUA
+- Ramo de Atuacao: IMPORTACAO E EXPORTACAO
+- Email: SUPORTE@GLOBALTRADE.COM
+--------------------
+- Nome: CONSTRUTEC ENGENHARIA
+- CNPJ: 33.221.456/0001-78
+- Inicio da Parceria: 10/3/2010
+- Pais de Origem: BRASIL
+- Ramo de Atuacao: CONSTRUCAO CIVIL
+- Email: PROJETOS@CONSTRUTEC.COM.BR
+--------------------
+- Nome: AGRONOVA SOLUCOES
+- CNPJ: 45.678.123/0001-55
+- Inicio da Parceria: 5/7/2016
+- Pais de Origem: BRASIL
+- Ramo de Atuacao: AGRONEGOCIO
+- Email: CONTATO@AGRONOVA.COM.BR
+--------------------
+- Nome: MEDTECH INNOVATIONS
+- CNPJ: 77.888.999/0001-32
+- Inicio da Parceria: 30/11/2012
+- Pais de Origem: CANADA
+- Ramo de Atuacao: TECNOLOGIA MEDICA
+- Email: INFO@MEDTECHINNOVATIONS.COM
+--------------------
+- Nome: BRASIL LOGISTICA
+- CNPJ: 55.444.333/0001-99
+- Inicio da Parceria: 18/2/2020
+- Pais de Origem: BRASIL
+- Ramo de Atuacao: TRANSPORTE E LOGISTICA
+- Email: LOGISTICA@BRASILLOG.COM.BR
+--------------------
+- Nome: ENERGIASOLAR LTDA
+- CNPJ: 88.999.777/0001-44
+- Inicio da Parceria: 12/6/2014
+- Pais de Origem: BRASIL
+- Ramo de Atuacao: ENERGIA RENOVAVEL
+- Email: SUPORTE@ENERGIASOLAR.COM.BR
+--------------------
+- Nome: ALPHA SOFTWARE
+- CNPJ: 23.456.789/0001-65
+- Inicio da Parceria: 25/10/2019
+- Pais de Origem: BRASIL
+- Ramo de Atuacao: DESENVOLVIMENTO DE SOFTWARE
+- Email: CONTATO@ALPHASOFTWARE.COM.BR
+--------------------
+- Nome: BIOFARM INDUSTRIA
+- CNPJ: 66.777.888/0001-22
+- Inicio da Parceria: 8/12/2011
+- Pais de Origem: BRASIL
+- Ramo de Atuacao: FARMACEUTICO
+- Email: SAC@BIOFARM.COM.BR
+--------------------
+- Nome: TECHMOTORS AUTOMOTIVE
+- CNPJ: 11.222.333/0001-88
+- Inicio da Parceria: 3/5/2017
+- Pais de Origem: ALEMANHA
+- Ramo de Atuacao: INDUSTRIA AUTOMOTIVA
+- Email: SUPORTE@TECHMOTORS.COM
+----------------------------
+

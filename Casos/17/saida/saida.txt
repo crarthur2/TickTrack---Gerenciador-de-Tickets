@@ -1,0 +1,25 @@
+----- BUSCAR TICKETS -----
+---------TICKET-----------
+- ID: Tick-1
+- Usuario solicitante: 468.357.912-35
+- Tipo: Outros
+- Descricao: LAMPADA PISCANDO CONSTANTEMENTE NO CORREDOR
+- Local: CORREDOR PRINCIPAL
+- Nivel de Dificuldade: 3
+- Tempo Estimado: 3h
+- Status: Aberto
+-------------------------
+
+---------TICKET-----------
+- ID: Tick-3
+- Usuario solicitante: 468.357.912-35
+- Tipo: Manutencao
+- Nome do item: AR CONDICIONADO
+- Estado de conservacao: RUIM
+- Local: SALA 15 BLOCO A
+- Tempo estimado: 3h
+- Status: Aberto
+-------------------------
+
+-------------------------------
+

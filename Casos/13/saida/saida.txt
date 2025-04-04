@@ -1,0 +1,39 @@
+----- FILA DE TICKETS -----
+---------TICKET-----------
+- ID: Tick-1
+- Usuario solicitante: 913.802.467-80
+- Tipo: Hardware
+- Nome do hardware: ZTX-3852
+- Tipo da maquina: 2
+- Tipo do problema: 2
+- Motivo: A MAQUINA APRESENTA UM BARULHO ESTRANHO
+- Tempo estimado: 4h
+- Status: Aberto
+-------------------------
+
+---------TICKET-----------
+- ID: Tick-2
+- Usuario solicitante: 913.802.467-80
+- Tipo: Hardware
+- Nome do hardware: YUT-90X1
+- Tipo da maquina: 3
+- Tipo do problema: 3
+- Motivo: A MAQUINA CHEGOU E PRECISA SER INSTALADA
+- Tempo estimado: 6h
+- Status: Aberto
+-------------------------
+
+---------TICKET-----------
+- ID: Tick-3
+- Usuario solicitante: 913.802.467-80
+- Tipo: Hardware
+- Nome do hardware: ZZTOP-10
+- Tipo da maquina: 2
+- Tipo do problema: 1
+- Motivo: MANUTENCAO DE ROTINA
+- Tempo estimado: 3h
+- Status: Aberto
+-------------------------
+
+---------------------------
+
