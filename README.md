@@ -29,7 +29,7 @@ Todas as interações com o programa são realizadas utilizando entrada e saída
 
 ### Estrutura
 O repositório é organizado da seguinte forma:
-- Uma pasta chamda Codigo, onde estão presentes dos os .c e .h do programa
+- Uma pasta chamda Codigo, onde estão presentes todos os .c e .h do programa
 - Uma pasta chamada Casos, onde estão todas entradas e saídas esperadas para o programa
 
 ### Compilação
